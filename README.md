@@ -18,7 +18,7 @@ img = Image.open(r"#Your image path goes here#")
 Hit Run, and that's it.
 
 # How it actually works...
-A pixel is the smallest unit in digital imagery and is what our screens consist of. Technically speaking, a pixel is just a group of three LEDs—RGB (Red, Green, and Blue).
+A pixel is the smallest unit in digital imagery and is what our screens consist of. Technically speaking, a pixel is just a group of three LEDs RGB (Red, Green, and Blue).
 
 By adjusting the brightness of these three colors, we can trick our brain into perceiving millions of shades of color.
 
