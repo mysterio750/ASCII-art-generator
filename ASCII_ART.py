@@ -1,7 +1,7 @@
 from PIL import Image
 img = Image.open(r" ") # <<< your image path goes here
-new_width = 300
-new_height = 100
+new_width = 150
+new_height = 50
 
 tiny_img = img.resize((new_width, new_height))
 
